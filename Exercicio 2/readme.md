@@ -8,10 +8,10 @@ Faça um Programa que:
 
 1 2 3 4 5 6 7 8 9 10
 
-#### Pares:
+***Pares:***
 2 4 6 8 10
 
-#### Impares:
+***Impares:***
 1 3 5 7 9
 
 
