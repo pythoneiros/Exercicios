@@ -3,15 +3,10 @@
 Encontre o problema no exercício abaixo e corrija-o
 
 ```python
-
-#!/usr/bin/python
-#coding: utf-8
-
 print "\n-----------------------------------------------------"
-print "\nExercicio 2"
 print "Separador de pares e ímpares\n"
 
-numeros = raw_input("Entre com alguns números separados por espaço para \nque eu possa separar os pares dos ímpares\n\n:-) -> ").split( )
+numeros = raw_input("Insira alguns números separados por espaço para \n que eu possa separar os pares dos ímpares\n\n:-) -> ").split( )
 
 pares = impares = []
 
