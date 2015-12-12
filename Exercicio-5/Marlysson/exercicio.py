@@ -4,8 +4,8 @@
 CORREÇÕES:
 
 - Retirada da atribuição de lista, pois da forma que estava (a = b = []) estava associando
-o valor de referência da lista "a" à lista "b" e assim qualquer mudança que occorrece em
-"a" occorreria em "b".
+o valor de referência da lista "a" à lista "b" e assim qualquer mudança que ocorresse em
+"a" ocorreria em "b".
 
 Forma correta: a,b = [],[]
 
