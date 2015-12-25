@@ -1,0 +1,7 @@
++----------------------------------+    
+| Total de registros      |    10  |    
+| Porcentagem de Homes    |    60% |   
+| Porcentagem de Mulheres |    40% |   
+| Total de Maiores        |     7  |    
+| Total de Menores        |     3  |    
++----------------------------------+    

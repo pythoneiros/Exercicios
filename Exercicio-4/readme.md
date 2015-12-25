@@ -2,7 +2,7 @@
 
 Faça um programa que leia um arquivo chamado **_pessoas.csv_** que contém várias linhas, e cada linha contém os dados separados por ",":
 
-Nesse arquivo você deve fazer as operações abaixo e gravá-las em um novo arquivo chamado **_estatisticas.txt_**:
+Nesse arquivo você deve fazer as operações abaixo e gravá-las em um novo arquivo chamado **_estatisticas.txt_** ou **_estatisticas.csv_** _(campos separados por virgula)_:
 
 - Porcentagem de homens.
 - Porcentagem de mulheres.
@@ -20,5 +20,5 @@ Nesse arquivo você deve fazer as operações abaixo e gravá-las em um novo arq
   - pessoas.csv
     /SeuNickGitHub (Pasta com seu username do GitHub)
       - exercicio.py
-      - estatisticas.txt
+      - estatisticas.txt ou estatisticas.csv
 ```
