@@ -7,7 +7,7 @@ Faça um web Scraping que navegue em um site e salve os links em um arquivo ***.
 ## Estrutura 
 
 ```
-  /Exercicio-3
+  /Exercicio-6
     /SeuNickGitHub (Pasta com seu username do GitHub)
       - exercicio.py
       - links.txt
