@@ -24,8 +24,13 @@ def pega_link():
 
     links =  soup.find_all('a')
 
+    links_file = open('links.txt', 'a')
+  
     for link in links:
-      print link.get('href')
+      links_file.write(str(link.get('href')) + '\n')
+
+   
+    links_file.close()
 
   except IndexError:
     print __doc__
