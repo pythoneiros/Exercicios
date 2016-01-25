@@ -1,4 +1,4 @@
-# Exercicios
+# Exercícios
 Todo iniciante e até os mais experiêntes precisam praticar suas habilidades para que melhorem mais a cada dia. 
 Por isso criamos este repositório com exercícios, para quem estiver afim de treinar e no final disponibilizar o que fez.
 

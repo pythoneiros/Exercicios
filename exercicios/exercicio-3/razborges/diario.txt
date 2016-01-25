@@ -1,2 +1,0 @@
-Hoje eu desenvolvi o exercício 3 de Python.
-E agora o estou testando para escrever múltiplas linhas.

@@ -4,7 +4,7 @@
 def diario():
     file = open("diario.txt", 'w')
     tmp = ""
-    print("Para sair dê uma qubra de linha <enter> e digite 'exit'.")
+    print("Para sair dê uma quebra de linha <enter> e digite 'exit'.")
     while(tmp != "exit"):
         tmp = input()
         if(tmp == "exit"):
