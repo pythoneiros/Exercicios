@@ -2,6 +2,7 @@
 Faça um programa que salve dados que o usuário digitar em uma tabela de um banco da dados MySQL.
 
 ***Nome da tabela:*** diario
+
 ***Colunas da tabela:*** texto | data | hora 
 
 
