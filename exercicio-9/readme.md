@@ -1,5 +1,5 @@
 # Exercicio 9
-Faça um diario digital que salve o que o usuário digitar em uma tabela de um banco da dados MySQL.
+Faça um diario digital que salve o que o usuário digitar em uma tabela de um banco da dados Sqlite.
 
 ***Nome da tabela:*** diario
 
