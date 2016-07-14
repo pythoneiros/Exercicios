@@ -1,0 +1,6 @@
++----------------------------------+    
+| Porcentagem de Homes    |    54% |   
+| Porcentagem de Mulheres |    45% |   
+| Total de Maiores        |     7  |    
+| Total de Menores        |     3  |    
++----------------------------------+    
