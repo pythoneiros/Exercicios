@@ -16,3 +16,5 @@ while True:
       break
     else:
       chat.write('  "'+texto+'" \n')
+
+# INCOMPLETO
