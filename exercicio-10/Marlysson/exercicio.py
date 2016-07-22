@@ -39,7 +39,7 @@ while True:
 
 	if opcao == "2":
 
-		titulo = str(input("Título da mensagem: "))
+		titulo = str(input("\nTítulo da mensagem: "))
 		conteudo = str(input("Conteúdo da mensagem: "))
 
 		while titulo == "" or conteudo == "":
