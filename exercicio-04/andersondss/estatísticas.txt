@@ -1,0 +1,9 @@
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %                                        %
+    %    Porcentagem de homens: 60.0%        %
+    %    Porcentagem de mulheres: 40.0%      %
+    %    Quantidade de maiores de Idade: 7   %
+    %    Quantidade de menores de idade: 3   %
+    %                                        %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
