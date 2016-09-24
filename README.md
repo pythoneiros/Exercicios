@@ -28,4 +28,7 @@ Raiz
 - [Verificar os IP's em um arquivo CSV/txt dado e depois gravar separadamente os válidos e os inválidos em novos arquivos.](https://github.com/pythoneiros/Exercicios/tree/master/exercicio-08)
 - [Fazer um diário virtual que grave o que o usuário digitar em um banco de dados SQLITE.](https://github.com/pythoneiros/Exercicios/tree/master/exercicio-09)
 - [Fazer um diário virtual que grave o que o usuário digitar em um arquivo JSON.](https://github.com/pythoneiros/Exercicios/tree/master/exercicio-10)
-- [Mover os elementos de uma lista à direita quantas vezes necessário](https://github.com/pythoneiros/Exercicios/tree/master/exercicio-11)
+- [Mover os elementos de uma lista à direita quantas vezes necessário.](https://github.com/pythoneiros/Exercicios/tree/master/exercicio-11)
+- [Separe uma determinada lista em grupos com quantidades determinadas em cada grupo.](https://github.com/pythoneiros/Exercicios/tree/master/exercicio-12)
+- [Divida uma lista em uma quantidade determinada de grupos.](https://github.com/pythoneiros/Exercicios/tree/master/exercicio-13)
+- [Verifique se um determinado valor inteiro é potência de outro](https://github.com/pythoneiros/Exercicios/tree/master/exercicio-14)
