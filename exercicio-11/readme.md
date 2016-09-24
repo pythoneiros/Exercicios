@@ -1,4 +1,4 @@
-# Exercicio 10
+# Exercicio 11
 Faça um right-shift em uma data lista.
 
 Dada uma lista:
