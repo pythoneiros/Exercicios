@@ -32,3 +32,4 @@ Raiz
 - [Separe uma determinada lista em grupos com quantidades determinadas em cada grupo.](https://github.com/pythoneiros/Exercicios/tree/master/exercicio-12)
 - [Divida uma lista em uma quantidade determinada de grupos.](https://github.com/pythoneiros/Exercicios/tree/master/exercicio-13)
 - [Verifique se um determinado valor inteiro é potência de outro](https://github.com/pythoneiros/Exercicios/tree/master/exercicio-14)
+- [Implementar duas funções que converta temperatura Celsius para Fahrenheit e vice-versa.](https://github.com/pythoneiros/Exercicios/tree/master/exercicio-15)
